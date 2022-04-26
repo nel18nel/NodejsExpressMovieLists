@@ -21,10 +21,11 @@
   },
   "homepage": "https://github.com/nel18nel/NodejsExpressMovieLists#readme",
   "dependencies": {
-    "body-parser": "^1.19.2",
-    "express": "^4.17.3",
-    "mysql": "^2.18.1"
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
   },
-  "devDependencies": {},
-  "description": ""
+  "description": "Nodejs Express"
 }
